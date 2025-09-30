@@ -7,7 +7,7 @@
             <a href="#skills" class="text-gray-300 hover:text-teal-300 transition duration-300">Skills</a>
             <a href="#projects" class="text-gray-300 hover:text-teal-300 transition duration-300">Projects</a>
             <a href="#contact" class="text-gray-300 hover:text-teal-300 transition duration-300">Contact</a>
-            <a href="#" class="bg-teal-500 hover:bg-teal-600 text-white font-bold py-2 px-4 rounded-full transition duration-300">Resume</a>
+            <a href="{{ url_for('static', filename='assets/resume.txt') }}" target="_blank" class="bg-teal-500 hover:bg-teal-600 text-white font-bold py-2 px-4 rounded-full transition duration-300">Resume</a>
         </div>
 
         <!-- Mobile Menu Button -->
@@ -25,6 +25,6 @@
         <a href="#skills" class="block py-2 px-4 text-sm text-gray-200 hover:bg-gray-700">Skills</a>
         <a href="#projects" class="block py-2 px-4 text-sm text-gray-200 hover:bg-gray-700">Projects</a>
         <a href="#contact" class="block py-2 px-4 text-sm text-gray-200 hover:bg-gray-700">Contact</a>
-        <a href="#" class="block py-2 px-4 text-sm text-gray-200 hover:bg-gray-700">Resume</a>
+        <a href="{{ url_for('static', filename='assets/resume.txt') }}" target="_blank" class="block py-2 px-4 text-sm text-gray-200 hover:bg-gray-700">Resume</a>
     </div>
 </nav>

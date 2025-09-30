@@ -1,0 +1,58 @@
+OMONIRE OGHENE-OVIE GREAT
+Benin City, Edo State, Nigeria
++2348122229591 | omonire4@gmail.com
+
+PROFESSIONAL SUMMARY
+Certified Ethical Hacker and Cyber Security Analyst| Dynamic Python Programmer with a passion for data visualization and user training, honed at Uncle Israel Online Class. Expert in developing tailored training programs and enhancing technical content, with excellent communication skills. Committed to continuous improvement and achieving impactful results in software development and IT project coordination.
+
+EXPERIENCE
+Tutor Class gap | Online
+November 2024 – Current
+- Taught test-taking strategies to improve exam performance.
+- Stayed up-to-date on curriculum changes, educational trends, and best practices in the tutoring industry.
+- Monitored students' progress and provided regular feedback.
+- Developed personalized learning plans for each student.
+- Conducted one-on-one tutoring sessions in various subjects.
+
+Python Programmer
+Uncle Israel Online Class | Benin City, Edo State, Nigeria
+June 2023 – Current
+- Delivered classroom training to end-user customers and partners on a consistent schedule.
+- Leveraged observation, research, and practice to continuously improve facilitation skills.
+- Assisted with development of technical training content, lab exercises, presentations, and accompanying materials.
+- Identified areas of improvement in existing training materials.
+- Customized training programs to meet client needs.
+- Reviewed feedback from trainees to enhance future course offerings.
+
+EDUCATION
+- Certification in Cyber security, Cisco Network Academy | Online, February 2025
+- Certificate in Ethical Hacking (C.E.H), Cisco Network Academy | Online, March 2025
+- Python Programming, Data Analysis, Web Development, Complete Computer and Technology | Benin City, February 2025
+- CompTIA Cyber security Analyst (CSA), Complete Computer and Technology | Benin City, Nigeria, July 2025
+- Endpoint Security, Cisco Networking Academy | Online, May 2025
+- Python Essentials 1 and 2, Cisco Networking Academy | Online, May 2025
+- Network Security and Defense, Cisco Networking Academy | Online, May 2025
+- Certificate in Cyber Threat Monitoring, Cisco Networking Academy | Online, May 2025
+- Bsc. Computer Science, University of Benin| Nigeria, 2030
+
+SKILLS
+- Technical Expertise: Python Programming, Penetration Testing, Ethical Hacking, Cyber Security Frameworks, Malware Analysis, and Data Encryption.
+- Cyber security: Vulnerability analysis, compliance auditing, DDoS prevention, network protocols, I.o.T security, and risk assessment.
+- Programming and Development: Data visualization, object-oriented programming, mobile app development, web application security, and database management.
+- Tools & Libraries: Matplotlib, Pandas, Flask, Jupyter notebooks, Git version control, cloud security tools etc.
+- Soft Skills: Excellent communication, analytical skills, attention to detail, and user training expertise.
+- Operating System: Windows and Linux
+- Software-On-Hand: Canvas, Plotagon Studio, Zepeto, VS. Code, N-map, Kali Linux, Wireshark, TCP dump, PyCharm, LMMS, FL Studio.
+
+LANGUAGES
+English: Proficient (C2)
+
+PROJECTS
+- Zero-Trace Ethical Key Logger: Python based ethical key-logger used to monitor every key pressed on.
+- Zero to Hero python Textbook: A full fledge python text book carrying the reader knowledge from zero to hero.
+- Cyber Expert Security Tool-Box: State of the art security toolkit carrying duo-project listed below:
+  - Cyber Expert Zero Trace Password Strength Checker: This tool allows you to check your password strength and gives you recommendation if weak or moderate.
+  - Ethical Brute Force Attacker: An ethical Brute force attacker used to attack authorized login pages and with proper solution, make reference to Cyber Expert Zero Trace Password Strength Checker.
+- Eagle OS: An operating system that focus on its strength such as its Flexible UI and strong security.
+- Great AI: A well powered AI related using AI.
+- Websites Projects such as Banking, Medicine, Pharmacy etc. using Figma, Flutter and Python.

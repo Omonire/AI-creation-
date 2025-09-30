@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 3. Hero section typing effect
     const typingElement = document.getElementById('typing-effect');
-    const roles = ["Full-Stack Developer", "Python Programmer", "Certified Ethical Hacker", "UI/UX Enthusiast"];
+    const roles = ["Certified Ethical Hacker", "Python Programmer", "Cyber Security Analyst", "Data Visualization Expert"];
     let roleIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
