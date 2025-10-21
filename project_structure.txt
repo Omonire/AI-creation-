@@ -1,0 +1,100 @@
+hospital_management_system/
+├── hms_app/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   └── models.py
+│   ├── blueprints/
+│   │   ├── accounts/
+│   │   │   ├── __init__.py
+│   │   │   ├── forms.py
+│   │   │   ├── routes.py
+│   │   │   └── templates/
+│   │   │       ├── login.html
+│   │   │       ├── register.html
+│   │   │       ├── profile.html
+│   │   │       └── assign_department.html
+│   │   ├── patients/
+│   │   │   ├── __init__.py
+│   │   │   ├── forms.py
+│   │   │   ├── routes.py
+│   │   │   └── templates/
+│   │   │       ├── list.html
+│   │   │       ├── add_edit.html
+│   │   │       ├── history.html
+│   │   │       └── appointments.html
+│   │   ├── doctors/
+│   │   │   ├── __init__.py
+│   │   │   ├── forms.py
+│   │   │   ├── routes.py
+│   │   │   └── templates/
+│   │   │       ├── patients.html
+│   │   │       ├── prescriptions.html
+│   │   │       └── availability.html
+│   │   ├── nurses/
+│   │   │   ├── __init__.py
+│   │   │   ├── forms.py
+│   │   │   ├── routes.py
+│   │   │   └── templates/
+│   │   │       ├── vitals.html
+│   │   │       ├── assigned_patients.html
+│   │   │       └── shift_logs.html
+│   │   ├── records/
+│   │   │   ├── __init__.py
+│   │   │   ├── forms.py
+│   │   │   ├── routes.py
+│   │   │   └── templates/
+│   │   │       ├── upload.html
+│   │   │       ├── list_history.html
+│   │   │       └── reports.html
+│   │   ├── pharmacy/
+│   │   │   ├── __init__.py
+│   │   │   ├── forms.py
+│   │   │   ├── routes.py
+│   │   │   └── templates/
+│   │   │       ├── inventory.html
+│   │   │       └── issue_prescription.html
+│   │   ├── lab/
+│   │   │   ├── __init__.py
+│   │   │   ├── forms.py
+│   │   │   ├── routes.py
+│   │   │   └── templates/
+│   │   │       ├── requests.html
+│   │   │       └── results.html
+│   │   ├── cleaners/
+│   │   │   ├── __init__.py
+│   │   │   ├── forms.py
+│   │   │   ├── routes.py
+│   │   │   └── templates/
+│   │   │       ├── assign_tasks.html
+│   │   │       └── task_tracking.html
+│   │   ├── duty_roster/
+│   │   │   ├── __init__.py
+│   │   │   ├── forms.py
+│   │   │   ├── routes.py
+│   │   │   └── templates/
+│   │   │       ├── create_schedule.html
+│   │   │       └── calendar.html
+│   │   └── notifications/
+│   │       ├── __init__.py
+│   │       ├── routes.py
+│   │       └── templates/
+│   │           └── alerts.html
+│   ├── static/
+│   │   ├── css/
+│   │   │   ├── custom.css
+│   │   │   └── bootstrap.min.css (downloaded)
+│   │   └── js/
+│   │       ├── custom.js
+│   │       ├── bootstrap.bundle.min.js (downloaded)
+│   │       └── fullcalendar.min.js (for duty roster)
+│   └── templates/
+│       ├── base.html
+│       ├── admin_dashboard.html
+│       ├── department_head_dashboard.html
+│       └── staff_dashboard.html
+├── requirements.txt
+├── run.py
+├── README.md
+└── .gitignore
